@@ -4,3 +4,14 @@ Frontend shopping site for personal portfolio or practice project.
 <h1>Home Page</h1>
 <img src="images/products/screenshot/home.jpeg">
 <img src="images/products/screenshot/home2.jpeg">
+<img src="images/products/screenshot/home3.jpeg">
+
+<h3>Product Details</h3>
+<img src="images/products/screenshot/product details.jpeg">
+<h3>Contact Page</h3>
+<img src="images/products/screenshot/contactpage.jpeg">
+<h3>Cart Page</h3>
+<img src="images/products/screenshot/cartpage.jpeg">
+
+
+
